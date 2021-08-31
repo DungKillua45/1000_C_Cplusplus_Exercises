@@ -1,7 +1,6 @@
 /* Exercise 16: 
 Caculate this: x + x^2/(1+2) + x^3/(1+2+3) + ... + x^n/(1+2+...+n)
 */
-
 #include<iostream>
 #include<math.h>
 #include<conio.h>
@@ -30,3 +29,8 @@ int main(){
 	}
 	return 0;
 }
+
+
+
+
+
