@@ -1,6 +1,7 @@
 /*
 	Exercise 30:
 	Kiem tra n co phai la so hoan thien khong
+	(so hoan thien n la so co tong cac uoc ngoai tru n bang n)
 */
 #include<iostream>
 #include<conio.h>
