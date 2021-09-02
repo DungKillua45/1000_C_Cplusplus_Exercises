@@ -1,6 +1,6 @@
 /*
 	Exercise 31:
-	Kiem tra n co phai la so nguyent to khong
+	Kiem tra n co phai la so nguyen to khong
 */
 #include<iostream>
 #include<conio.h>
